@@ -84,7 +84,7 @@ Citations:
 - https://dl.acm.org/doi/10.1145/3610533 imp
 - https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1046524/full imp
 - https://github.com/CDDLeiden/DrugEx/tree/v3.2.0 imp
-
+- https://github.com/LindeSchoenmaker/SMILES-corrector imp
 
 ## Python Libraries 
 - deepchem - github - 
@@ -94,7 +94,7 @@ Citations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwNTMyODg5LDEyNzE4Njc1OTEsMzE0Nz
-U1NjY2LC0yMTMxODQzMTYwLC01MTg0NjM4NDAsLTI2ODc5MTY4
-MywxODMwMzk2NTA2XX0=
+eyJoaXN0b3J5IjpbLTE2MTgyMzY0MjYsMTI3MTg2NzU5MSwzMT
+Q3NTU2NjYsLTIxMzE4NDMxNjAsLTUxODQ2Mzg0MCwtMjY4Nzkx
+NjgzLDE4MzAzOTY1MDZdfQ==
 -->
