@@ -66,12 +66,25 @@ Citations:
 - HoangHa/belka-smiles-train-processed (98 million rows , 2.75 GB molecular smilles)- https://huggingface.co/datasets/HoangHa/belka-smiles-train-processed
 - Models - https://huggingface.co/models?search=smiles
 
-## Training 
-- Codes
-	- ipynb
-		MolGAN (Generates new smiles) - https://github.com/deepchem/deepchem/blob/master/examples/tutorials/Generating_molecules_with_MolGAN.ipynb
+## Codes 
+- ipynb
+	- MolGAN (Generates new smiles) - https://github.com/deepchem/deepchem/blob/master/examples/tutorials/Generating_molecules_with_MolGAN.ipynb
 - https://towardsdatascience.com/basic-molecular-representation-for-machine-learning-b6be52e9ff76
 - https://github.com/deepchem/deepchem/blob/master/examples/tutorials/Introduction_to_GROVER.ipynb
+---
+[https://github.com/rsrinivas-repo/deepbind_molgen-](https://github.com/rsrinivas-repo/deepbind_molgen-) Repo for research project on generation of valid chemical SMILES using generative deeplearning algorithms.
+
+  
+  
+
+[https://github.com/BadWrost/Smiles_generation](https://github.com/BadWrost/Smiles_generation) -Generate smiles base on max depth and specific atoms
+
+  
+
+[https://github.com/urchade/molgen](https://github.com/urchade/molgen) Molecule SMILES generation with GAN and Reinforcement Learning (Training Language GAN from scratch)
+
+  
+[https://github.com/shar032/Mol-Denoising-Autoencoder](https://github.com/shar032/Mol-Denoising-Autoencoder) to check invalid smiles
 
 
 ## References:
@@ -96,7 +109,8 @@ Citations:
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzk4NDIyNTIsLTE2MTgyMzY0MjYsMT
-I3MTg2NzU5MSwzMTQ3NTU2NjYsLTIxMzE4NDMxNjAsLTUxODQ2
-Mzg0MCwtMjY4NzkxNjgzLDE4MzAzOTY1MDZdfQ==
+eyJoaXN0b3J5IjpbMTYyMDk4OTkyOSwtMTY3OTg0MjI1MiwtMT
+YxODIzNjQyNiwxMjcxODY3NTkxLDMxNDc1NTY2NiwtMjEzMTg0
+MzE2MCwtNTE4NDYzODQwLC0yNjg3OTE2ODMsMTgzMDM5NjUwNl
+19
 -->
