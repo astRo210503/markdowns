@@ -71,6 +71,7 @@ Citations:
 	- ipynb
 		MolGAN (Generates new smiles) - https://github.com/deepchem/deepchem/blob/master/examples/tutorials/Generating_molecules_with_MolGAN.ipynb
 - https://towardsdatascience.com/basic-molecular-representation-for-machine-learning-b6be52e9ff76
+- https://github.com/deepchem/deepchem/blob/master/examples/tutorials/Introduction_to_GROVER.ipynb
 
 
 ## References:
@@ -91,6 +92,6 @@ Citations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE4NDMxNjAsLTUxODQ2Mzg0MCwtMj
-Y4NzkxNjgzLDE4MzAzOTY1MDZdfQ==
+eyJoaXN0b3J5IjpbMzE0NzU1NjY2LC0yMTMxODQzMTYwLC01MT
+g0NjM4NDAsLTI2ODc5MTY4MywxODMwMzk2NTA2XX0=
 -->
