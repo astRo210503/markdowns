@@ -105,11 +105,11 @@ Citations:
 - pandas , numpy , matlplotlib
 
 ## Scratch files 
-- https://colab.research.google.com/drive/1FGaKuw06z_noH8nfyMa-H0NUHXPb0XlQ?usp=sharing
+- Compound Generation with RDKit: Exploring Molecular Diversity for Given Elements and Total Number of Atoms - https://colab.research.google.com/drive/1FGaKuw06z_noH8nfyMa-H0NUHXPb0XlQ?usp=sharing
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDk4OTkyOSwtMTY3OTg0MjI1MiwtMT
+eyJoaXN0b3J5IjpbMTQ0ODI4MTk5MiwtMTY3OTg0MjI1MiwtMT
 YxODIzNjQyNiwxMjcxODY3NTkxLDMxNDc1NTY2NiwtMjEzMTg0
 MzE2MCwtNTE4NDYzODQwLC0yNjg3OTE2ODMsMTgzMDM5NjUwNl
 19
