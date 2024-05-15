@@ -69,7 +69,7 @@ Citations:
 ## Training 
 - Codes
 	- ipynb
-		MolGAN - https://github.com/deepchem/deepchem/blob/master/examples/tutorials/Generating_molecules_with_MolGAN.ipynb
+		MolGAN (Generates new smiles) - https://github.com/deepchem/deepchem/blob/master/examples/tutorials/Generating_molecules_with_MolGAN.ipynb
 - https://towardsdatascience.com/basic-molecular-representation-for-machine-learning-b6be52e9ff76
 
 
@@ -85,6 +85,6 @@ Citations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTAxMDA4NCwtMjY4NzkxNjgzLDE4Mz
+eyJoaXN0b3J5IjpbLTUxODQ2Mzg0MCwtMjY4NzkxNjgzLDE4Mz
 AzOTY1MDZdfQ==
 -->
