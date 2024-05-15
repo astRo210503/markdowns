@@ -67,8 +67,11 @@ Citations:
 - Models - https://huggingface.co/models?search=smiles
 
 ## Training 
+- Codes
+	- ipynb
+		MolGAN - https://github.com/deepchem/deepchem/blob/master/examples/tutorials/Generating_molecules_with_MolGAN.ipynb
 - https://towardsdatascience.com/basic-molecular-representation-for-machine-learning-b6be52e9ff76
-- 
+
 
 ## References:
 - https://www.perplexity.ai/search/what-are-smiles-oaltVmofS8y4cuWeNE4LHA
@@ -82,5 +85,6 @@ Citations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODc5MTY4MywxODMwMzk2NTA2XX0=
+eyJoaXN0b3J5IjpbMTE2NTAxMDA4NCwtMjY4NzkxNjgzLDE4Mz
+AzOTY1MDZdfQ==
 -->
