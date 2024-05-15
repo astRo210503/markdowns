@@ -91,10 +91,12 @@ Citations:
 - rdkit
 - pandas , numpy , matlplotlib
 
-
+## Scratch files 
+- https://colab.research.google.com/drive/1FGaKuw06z_noH8nfyMa-H0NUHXPb0XlQ?usp=sharing
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTgyMzY0MjYsMTI3MTg2NzU5MSwzMT
-Q3NTU2NjYsLTIxMzE4NDMxNjAsLTUxODQ2Mzg0MCwtMjY4Nzkx
-NjgzLDE4MzAzOTY1MDZdfQ==
+eyJoaXN0b3J5IjpbLTE2Nzk4NDIyNTIsLTE2MTgyMzY0MjYsMT
+I3MTg2NzU5MSwzMTQ3NTU2NjYsLTIxMzE4NDMxNjAsLTUxODQ2
+Mzg0MCwtMjY4NzkxNjgzLDE4MzAzOTY1MDZdfQ==
 -->
