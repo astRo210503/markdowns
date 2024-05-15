@@ -83,8 +83,14 @@ Citations:
 - 
 
 
+## Python Libraries 
+- deepchem - github - 
+- rdkit
+- pandas , numpy , matlplotlib
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODQ2Mzg0MCwtMjY4NzkxNjgzLDE4Mz
-AzOTY1MDZdfQ==
+eyJoaXN0b3J5IjpbLTIxMzE4NDMxNjAsLTUxODQ2Mzg0MCwtMj
+Y4NzkxNjgzLDE4MzAzOTY1MDZdfQ==
 -->
