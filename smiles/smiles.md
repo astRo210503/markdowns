@@ -81,7 +81,8 @@ Citations:
 - https://github.com/EBjerrum/SMILES-enumeration/tree/master
 - https://chat.mistral.ai/chat/2a6e0d8a-0f48-45a4-a542-c2aed4f1ff54
 - https://chat.mistral.ai/chat/1fb42b85-2639-43d1-9070-8d6ec829b8fc
-- 
+- https://dl.acm.org/doi/10.1145/3610533 imp
+- https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1046524/full imp
 
 
 ## Python Libraries 
@@ -92,6 +93,7 @@ Citations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0NzU1NjY2LC0yMTMxODQzMTYwLC01MT
-g0NjM4NDAsLTI2ODc5MTY4MywxODMwMzk2NTA2XX0=
+eyJoaXN0b3J5IjpbMTI3MTg2NzU5MSwzMTQ3NTU2NjYsLTIxMz
+E4NDMxNjAsLTUxODQ2Mzg0MCwtMjY4NzkxNjgzLDE4MzAzOTY1
+MDZdfQ==
 -->
