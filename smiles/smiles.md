@@ -65,6 +65,11 @@ Citations:
 - maykcaldas/smiles-transformers (1 billion rows 35 GB) - https://huggingface.co/datasets/maykcaldas/smiles-transformers 
 - HoangHa/belka-smiles-train-processed (98 million rows , 2.75 GB molecular smilles)- https://huggingface.co/datasets/HoangHa/belka-smiles-train-processed
 - Models - https://huggingface.co/models?search=smiles
+
+## Training 
+- https://towardsdatascience.com/basic-molecular-representation-for-machine-learning-b6be52e9ff76
+- 
+
 ## References:
 - https://www.perplexity.ai/search/what-are-smiles-oaltVmofS8y4cuWeNE4LHA
 - https://github.com/seyonechithrananda/deepchem
@@ -77,5 +82,5 @@ Citations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDM5NjUwNl19
+eyJoaXN0b3J5IjpbLTI2ODc5MTY4MywxODMwMzk2NTA2XX0=
 -->
