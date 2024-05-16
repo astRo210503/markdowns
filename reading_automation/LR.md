@@ -51,7 +51,43 @@ Here are some key considerations for setting up a wired data streaming system fr
 7. **Data Analysis**: Ensure that the data is properly analyzed and interpreted by the computer. This may involve using data analysis software, such as Excel or MATLAB, that is capable of handling the desired level of data transmission.
 
 By following these steps and considering the key considerations, you can set up a wired data streaming system from a weighing machine that is capable of transmitting high-bandwidth, low-latency data to a computer over a network.
+
+
+---
+Data logging is a crucial aspect of various scientific machines used in laboratory settings, research, and industrial applications. Here are some examples of scientific machines that use data logging:
+
+1. **Weighing Machines**: Weighing machines, such as precision balances, use data logging to record weight data over time. This is particularly useful in applications where the weight of a substance or material needs to be tracked continuously, such as in chemical reactions or in quality control processes[1][2].
+
+2. **Environmental Monitoring Systems**: Environmental monitoring systems, such as weather stations or air quality monitoring systems, use data logging to record data on temperature, humidity, air pressure, and other environmental parameters. This data is used to track changes in the environment over time and to identify trends and patterns[1][3].
+
+3. **Temperature Data Loggers**: Temperature data loggers are used to record temperature data over time in various applications such as food storage, pharmaceutical manufacturing, or in scientific research. These devices are designed to operate in harsh environments and can be used to monitor temperature in real-time[1][3].
+
+4. **pH Data Loggers**: pH data loggers are used to record pH levels over time in applications such as water quality monitoring, soil testing, or in chemical reactions. These devices are designed to provide accurate and reliable pH readings and can be used to monitor pH levels in real-time[1][3].
+
+5. **Strain Data Loggers**: Strain data loggers are used to record strain data over time in applications such as mechanical testing, materials science, or in structural health monitoring. These devices are designed to provide accurate and reliable strain readings and can be used to monitor strain in real-time[1][3].
+
+6. **Vibration Data Loggers**: Vibration data loggers are used to record vibration data over time in applications such as mechanical testing, materials science, or in structural health monitoring. These devices are designed to provide accurate and reliable vibration readings and can be used to monitor vibration in real-time[1][3].
+
+7. **Acoustic Data Loggers**: Acoustic data loggers are used to record acoustic data over time in applications such as noise monitoring, sound level testing, or in acoustic research. These devices are designed to provide accurate and reliable acoustic readings and can be used to monitor acoustic data in real-time[1][3].
+
+8. **Light Data Loggers**: Light data loggers are used to record light data over time in applications such as light measurement, photometry, or in optical research. These devices are designed to provide accurate and reliable light readings and can be used to monitor light data in real-time[1][3].
+
+9. **Pressure Data Loggers**: Pressure data loggers are used to record pressure data over time in applications such as pressure testing, pressure monitoring, or in fluid dynamics research. These devices are designed to provide accurate and reliable pressure readings and can be used to monitor pressure in real-time[1][3].
+
+10. **Flow Data Loggers**: Flow data loggers are used to record flow data over time in applications such as flow measurement, fluid dynamics research, or in industrial process control. These devices are designed to provide accurate and reliable flow readings and can be used to monitor flow in real-time[1][3].
+
+These are just a few examples of scientific machines that use data logging. The applications of data logging are diverse and can be found in various fields of science and industry[1][2][3].
+
+Citations:
+[1] https://en.wikipedia.org/wiki/Data_logger
+[2] https://www.findel-international.com/findel-international-blog/international-schools/what-are-data-loggers-and-how-are-they-used-in-science
+[3] https://www.hioki.com/in-en/learning/how-to/using-data-loggers
+[4] https://www.splunk.com/en_us/blog/learn/data-logging.html
+[5] https://www.crowdstrike.com/cybersecurity-101/observability/data-logging/
+[6] https://sg.rs-online.com/web/content/discovery/ideas-and-advice/data-loggers-guide
+[7] https://www.bbc.co.uk/bitesize/guides/zh27kmn/revision/5
+[8] https://www.researchgate.net/figure/Examples-of-data-loggers-as-illustrated-by-page-1-of-Google-image-search-results-for_fig1_339647804
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODY4NjYzMSwtMTEzOTU2ODI1MSwzNj
-AzMDM1LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbOTQwMzU1NjE1LC01Mzg2ODY2MzEsLTExMz
+k1NjgyNTEsMzYwMzAzNSwtMjA4ODc0NjYxMl19
 -->
