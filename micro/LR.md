@@ -44,7 +44,7 @@ By combining insights from recent research and utilizing advanced models and cod
 
 2. Wang, A., Yi, J., Song, Y., & Chehri, A. (2023). "Small Object Detection Based on Deep Learning for Remote Sensing: A Comprehensive Review." Remote Sensing, 15(13), 3265. [doi.org](https://doi.org/10.3390/rs15133265)【6†source】
 
-3. Aslam, N., et al. (2021). "A Survey of Modern Deep Learning based Object Detection Models." arXiv preprint arXiv:2104.11892. [ar5iv.org](https://ar5iv.labs.arxiv.org/html/2104.11892)【7†source】 
+3. Aslam, N., et al. (2021). "A Survey of Modern Deep Learning based Object Detection Models." arXiv preprint arXiv:2104.11892. [ar5iv.org](https://ar5iv.labs.arxiv.org/html/2104.11892)【7†source】	 
 
 ---
 dimension detection project 
@@ -61,6 +61,6 @@ dimension detection project
 - https://www.nature.com/articles/s41598-019-50782-0
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjk0NzU4MjAsLTgzNzE5MTExNiw5Nj
-k3NDYwMTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbOTMxMDExMzcyLC0xNDI5NDc1ODIwLC04Mz
+cxOTExMTYsOTY5NzQ2MDEyLDczMDk5ODExNl19
 -->
