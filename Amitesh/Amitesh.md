@@ -1,0 +1,16 @@
+### https://www.kaggle.com/code/ratthachat/molecule-synthesis-selfies-end2end-training/notebook
+### https://estudogeral.uc.pt/bitstream/10316/87303/1/tese_v2.0.pdf
+### https://github.com/undeadpixel/reinvent-randomized
+### https://www.alexkchew.com/tutorials/converting-smiles-string-and-2d-chemdraw-structures-into-3d-molecular-struc
+### https://github.com/alexarnimueller/SMILES_generator/blob/master/model.py
+### https://towardsdatascience.com/generating-molecules-with-the-help-of-recurrent-neural-networks-c3fe23bd0de2
+### https://www.kaggle.com/code/jocelyndumlao/smiles-unveiled-mastering-molecular-notation#-Stereochemistry
+### https://www.kaggle.com/code/basu369victor/drug-molecule-generation-with-vae#Dataset
+### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1360656/
+### https://github.com/seyonechithrananda/bert-loves-chemistry/tree/master
+### https://pubs.acs.org/doi/10.1021/acs.jcim.9b00943#
+### https://www.science.org/doi/10.1126/sciadv.aap7885
+### https://www.science.org/doi/10.1126/sciadv.aap7885
+### https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1?text=Paris+is+the+%3Cmask%3E+of+France.
+### https://github.com/isayev/ReLeaSE/blob/master/LogP_optimization_demo.ipynb
+### https://github.com/ETHmodlab/BIMODAL
