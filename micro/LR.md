@@ -56,9 +56,11 @@ dimension detection project
 
 - https://github.com/intel-iot-devkit/object-size-detector-python 
 - https://github.com/snsharma1311/object-size
-- https://github.com/Ali619/Object-Detection-Size-Measurement       https://www.mdpi.com/2077-0375/11/5/303       https://www.nature.com/articles/s41598-019-50782-0
+- https://github.com/Ali619/Object-Detection-Size-Measurement 
+- https://www.mdpi.com/2077-0375/11/5/303       
+- https://www.nature.com/articles/s41598-019-50782-0
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTc2NzU4NiwtODM3MTkxMTE2LDk2OT
-c0NjAxMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0Mjk0NzU4MjAsLTgzNzE5MTExNiw5Nj
+k3NDYwMTIsNzMwOTk4MTE2XX0=
 -->
