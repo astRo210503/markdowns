@@ -35,6 +35,17 @@ For practical implementations of small object detection using deep learning, the
 These repositories provide pre-trained models, training scripts, and guidelines to customize and fine-tune models for specific datasets and requirements.
 
 By combining insights from recent research and utilizing advanced models and code repositories, you can effectively address the challenges of small object detection using deep learning.
+
+
+# References
+### Sources
+
+1. Chen, C.F.R., Panda, R., Ramakrishnan, K., Feris, R., Cohn, J., & Oliva, A. (2021). "Deep analysis of CNN-based spatio-temporal representations for action recognition." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 6165-6175. [doi.org](https://doi.org/10.1109/CVPR46437.2021.00610)【5†source】
+
+2. Wang, A., Yi, J., Song, Y., & Chehri, A. (2023). "Small Object Detection Based on Deep Learning for Remote Sensing: A Comprehensive Review." Remote Sensing, 15(13), 3265. [doi.org](https://doi.org/10.3390/rs15133265)【6†source】
+
+3. Aslam, N., et al. (2021). "A Survey of Modern Deep Learning based Object Detection Models." arXiv preprint arXiv:2104.11892. [ar5iv.org](https://ar5iv.labs.arxiv.org/html/2104.11892)【7†source】 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5NzQ2MDEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTgzNzE5MTExNiw5Njk3NDYwMTIsNzMwOT
+k4MTE2XX0=
 -->
