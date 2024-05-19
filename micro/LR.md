@@ -46,7 +46,19 @@ By combining insights from recent research and utilizing advanced models and cod
 
 3. Aslam, N., et al. (2021). "A Survey of Modern Deep Learning based Object Detection Models." arXiv preprint arXiv:2104.11892. [ar5iv.org](https://ar5iv.labs.arxiv.org/html/2104.11892)【7†source】 
 
+---
+dimension detection project 
+
+ - https://github.com/facebookresearch/detectron2
+ - https://pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
+ - https://arxiv.org/pdf/2201.03243#:~:text=There%20are%20many%20deep%20learning,objects%20in%20one%20single%20shot.
+ -  https://www.researchgate.net/publication/369564556_Real_Time_Object_Distance_and_Dimension_Measurement_using_Deep_Learning_and_OpenCV
+
+- https://github.com/intel-iot-devkit/object-size-detector-python 
+- https://github.com/snsharma1311/object-size
+- https://github.com/Ali619/Object-Detection-Size-Measurement       https://www.mdpi.com/2077-0375/11/5/303       https://www.nature.com/articles/s41598-019-50782-0
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxODA3NTg2LC04MzcxOTExMTYsOTY5Nz
-Q2MDEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTM0MTc2NzU4NiwtODM3MTkxMTE2LDk2OT
+c0NjAxMiw3MzA5OTgxMTZdfQ==
 -->
