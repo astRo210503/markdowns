@@ -7,3 +7,5 @@
 ### https://stackoverflow.com/questions/66500743/how-to-get-value-from-the-output-of-a-weighing-scale
 ### https://www.codeproject.com/Questions/5291295/Read-weighing-scale-data-from-RS232
 ### https://github.com/fdbatista/nodejs-torrey-weighing-machine/blob/master/src/util/port-handler-util.mjs
+### https://stackoverflow.com/questions/58568538/read-weighing-scale-data-via-rs232-to-usb-cable-in-python?rq=3
+### https://www.perplexity.ai/search/Read-data-from-pocm9GNEQlu3vGmbo7HCUQ
