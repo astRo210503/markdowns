@@ -106,11 +106,11 @@ Citations:
 
 ## Scratch files 
 - Compound Generation with RDKit: Exploring Molecular Diversity for Given Elements and Total Number of Atoms - https://colab.research.google.com/drive/1FGaKuw06z_noH8nfyMa-H0NUHXPb0XlQ?usp=sharing
-- 
+- https://github.com/urchade/molgen/blob/master/model.py
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0ODI4MTk5MiwtMTY3OTg0MjI1MiwtMT
-YxODIzNjQyNiwxMjcxODY3NTkxLDMxNDc1NTY2NiwtMjEzMTg0
-MzE2MCwtNTE4NDYzODQwLC0yNjg3OTE2ODMsMTgzMDM5NjUwNl
-19
+eyJoaXN0b3J5IjpbNTA3MTU5NDA3LDE0NDgyODE5OTIsLTE2Nz
+k4NDIyNTIsLTE2MTgyMzY0MjYsMTI3MTg2NzU5MSwzMTQ3NTU2
+NjYsLTIxMzE4NDMxNjAsLTUxODQ2Mzg0MCwtMjY4NzkxNjgzLD
+E4MzAzOTY1MDZdfQ==
 -->
