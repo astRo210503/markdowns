@@ -1,5 +1,8 @@
 
 # SMILES:
+
+overleaflink- https://www.overleaf.com/read/dthcjfhrwsjc#acf416
+
 ## Gpt:
 "SMILES" stands for Simplified Molecular Input Line Entry System. It's a notation system used to represent chemical structures in a way that can be easily interpreted by both humans and computers. Each atom in a molecule is represented by a symbol, and the bonds between atoms are represented by dashes, slashes, and colons.
 
